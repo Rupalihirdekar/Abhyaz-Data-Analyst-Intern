@@ -1,3 +1,9 @@
+To enhance stakeholder and management understanding, I have implemented a comprehensive dashboard 
+that includes all the relevant charts and key performance indicators (KPIs). The dashboard serves 
+as a visual representation of the relevant data and provides a consolidated view of important metrics.
+By incorporating various charts and KPIs, we aim to facilitate easy interpretation and analysis of the 
+information for decision-making purposes.
+
 This dashboard delivers data regarding student engagement and other necessary data in CNCTrain.
 This is the public link: https://analytics.zoho.com/open-view/1742677000015090385/9abec30c3622868253b68eca0d9c700e
 
@@ -24,7 +30,11 @@ titled Description to gain a precise number of both active and inactive users.
 
 (3) Utilized MS Excel to organize and clean all the data. Developed the formula for data extraction.
 
-(4) As a result, there was a 50% reduction in overall duration while also increasing efficiency and reducing errors.
+(4) Set up mechanisms to automatically update the data on the dashboard, ensuring that the charts and KPIs reflect 
+the most recent information. This may involve connecting the dashboard to relevant data sources or implementing 
+data integration solutions.
 
-With the help of this, stakeholders can easily interpret and  understand the data, which allows them to quickly see trends and patterns in the data.
+(5) As a result, there was a 50% reduction in overall duration while also increasing efficiency and reducing errors.
+
+With the help of this, stakeholders can easily interpret and understand the data, which allows them to quickly see trends and patterns in the data.
 So that they can make better business decisions.
