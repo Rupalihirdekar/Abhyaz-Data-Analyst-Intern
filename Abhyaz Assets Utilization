@@ -7,7 +7,7 @@ information for decision-making purposes.
 This dashboard delivers data regarding student engagement and other necessary data in Abhyaz.
 This is the public link: https://analytics.zoho.com/open-view/1742677000019152423/da3f80a461d85f31522d92cc637afd4b
 
-Problen Statement:
+Problem Statement:
 
 1. Higher management and stakeholders want the Abhyaz Asset Utilization Dashboard, which shows KPIs, 
 statistics regarding student engagement and the expansion of the product in Abhyaz.
@@ -18,7 +18,7 @@ statistics regarding student engagement and the expansion of the product in Abhy
 (c) Create a chart that represents the top 5 least accessed courses, categories, and components at Abhyaz.
 (d) Create a chart that represents the activities that are least accessed by the users.
 
-3. The data supplied by Engineering department had two user IDs; hence, both the active and inactive 
+3. The data supplied by the Engineering department had two user IDs; hence, both the active and inactive 
 User counts were inaccurate.
 
 4. The manual procedure of cleansing the data takes time. I have confirmed with 
@@ -35,14 +35,17 @@ Solution:
 product growth and statistics regarding student engagement.
 3. Created a bar chart for the most and least accessed categories so that management could take action on it.
 4. Create a pie chart for the most and least accessed courses and components so they can improve the engagement of users with them.
-5. The least accessible activities have been represented with the help of table view so that users can utilize those activities as well.
+5. The least accessible activities have been represented with the help of a table view so that users can utilize those activities as well.
 6. Added all the charts and KPIs to the dashboard for a better understanding of user engagement and product activation rates.
 7. Created a timeline filter to point out changes in value over time and sales figures.
 8. Recognize the data and get to know that there were two user IDs present in the data for unenrolled users:
 One is for an admin user, and the other is a user ID.
 9. Extract the user IDs of registered and removed users from the column titled Description with the help of Python 
 to gain a precise count of both active and inactive users.
-10. As a result, there was a 750% reduction in overall duration while also increasing efficiency and reducing errors.
+10. Set up mechanisms to automatically update the data on the dashboard, ensuring that the charts and KPIs reflect the most recent information.
+This may involve connecting the dashboard to relevant data sources or implementing data integration solutions.
+11. As a result, there was a 75% reduction in overall duration while also increasing efficiency and reducing errors.
+
 
 With the help of this, stakeholders can easily interpret and  understand the data, which allows them to quickly see trends and patterns in the data, 
 so that they can make better business decisions.
