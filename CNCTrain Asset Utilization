@@ -1,11 +1,27 @@
 This dashboard delivers data regarding student engagement and other necessary data.
 This is the public link: https://analytics.zoho.com/open-view/1742677000015090385/9abec30c3622868253b68eca0d9c700e
 
-# Problem Statement: 
+# Problem Statement:
 
 (1) Higher management and stakeholders want to know about the CNCTrain Asset Utilization 
-dashboard statistics regarding student engagement and expansion of the product.
+    dashboard statistics regarding student engagement and expansion of the product.
 
-(2) It reports the wrong user count. 
+(2) It reports the wrong active and inactive user counts.
 
-(3) 
+(3) The manual procedure of cleansing the data takes time. (I have confirmed with 
+    the Engineering Department regarding the data they have shared). This procedure 
+    requires time and occasionally results in inaccuracies.
+
+(4) My responsibility as a data analyst was to automate the manual procedure as well as 
+    identify an alternate method.
+
+ # Solution:
+
+(1) Inspect the Zoho Customer Relationship Management (CRM) system where the CNCTrain Asset data was recently entered.
+
+(2) Recognize the information and extract the user IDs of registered and removed users from the column 
+    titled Description to gain a precise number of both active and inactive users.
+
+(3) Utilized to organize and clean all the data. Developed the formula for data extraction.
+
+(4) As a result, there was a 50% reduction in overall duration while also increasing efficiency and reducing errors.
