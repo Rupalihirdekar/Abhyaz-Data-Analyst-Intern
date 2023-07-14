@@ -45,6 +45,8 @@ to gain a precise count of both active and inactive users.
 10. Set up mechanisms to automatically update the data on the dashboard, ensuring that the charts and KPIs reflect the most recent information.
 This may involve connecting the dashboard to relevant data sources or implementing data integration solutions.
 11. As a result, there was a 75% reduction in overall duration while also increasing efficiency and reducing errors.
+12. Once the dashboard is finalized, deploy it to the intended audience. Provide stakeholders and management with appropriate access privileges 
+and instructions on how to navigate and interpret the charts and KPIs effectively.
 
 
 With the help of this, stakeholders can easily interpret and  understand the data, which allows them to quickly see trends and patterns in the data, 
