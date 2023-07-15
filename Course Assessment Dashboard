@@ -1,0 +1,65 @@
+The Course Assessment Dashboard is developed for institutions and others eager to collaborate 
+with the organization. The dashboard delivers insightful information about participants' desires and suggests 
+appropriate career choices based on the outcome of their assessments by gathering and analyzing data from 
+individual evaluations. In order to collaborate efficiently and produce better results, Stakeholders and institutions 
+must use this information to customize their relationships and services to the goals of everyone involved.
+
+This dashboard delivers data regarding Course assessment status, score, KPIs, and other necessary data.
+This is the public link: https://analytics.zoho.com/open-view/1742677000019398726/a81e2c9f9d6fae1bd0605b80a49b478b
+
+
+# Problem Statement:
+
+Creating a course assessment dashboard that uses evaluations to identify participant interests 
+while suggesting possible career paths, is the challenge at hand. The subsequent problems should be 
+successfully addressed by the dashboard:
+
+1. Insufficiently comprehensive insight into participant interests: Institutions and stakeholders' availability 
+of a full understanding of the preferences and interests of potential collaborators because of the lack of a 
+centralized method to collect and analyze data from evaluations.
+
+2. Time-consuming assessment analysis: Manually processing assessment responses is a lot of work and takes a lot of time.
+which limits the potential for successful decision-making and collaboration.
+
+3. Incorrect suggestions for job preferences: Without an automated system to suggest career preferences based on assessment results, 
+Stakeholders and institutions could find it difficult to successfully match their offerings with participants' interests.
+
+# Solution:
+
+1. Created the Course Assessment Dashboard to deal with the problems mentioned earlier. The following steps contribute to the final solution:
+
+2. Data collection for assessments: A user-friendly assessment interface was developed to make it simple for participants to respond. 
+Obtained participant data, such as interests, preferences, as well as relevant information.
+
+3. Data management and storage: To safely keep and handle assessment data, we used Zoho's Workdrive, a powerful storage and retrieval system.
+This secures data accessibility, confidentiality, and consistency for authorized institutions and stakeholders.
+
+4. Data analysis and visualization: Utilize data analysis tools to extract insightful information from the evaluation data through data visualization.
+Create visualisations, such as charts for course assessment status, course assessment score, career preference (education or job), and
+key performance indicators (KPIs) such as participant total count, total course assessments, and total recommended for a career 
+as well as education, to present the expertise in an in-depth yet straightforward approach.
+
+5. 10. Set up mechanisms to automatically update the data on the dashboard, ensuring that the charts and KPIs reflect the most recent information.
+This involved connecting the dashboard to relevant data sources or implementing data integration solutions.
+
+6. At the end, when the dashboard is finalized, deploy it to the intended audience. Provided stakeholders and management with appropriate 
+access privileges and instructions on how to navigate and interpret the charts and KPIs effectively.
+
+# Results:
+
+1. Improved stakeholder collaboration: Stakeholders and institutions now have access to in-depth information on participant interests, 
+allowing them to more efficiently coordinate with their associations and offerings.
+
+2. Saving both time and resources: By drastically reducing the time and effort required to perform processing manually, 
+Automated assessment analyses make a greater amount of time and resources readily accessible for additional critical duties.
+
+3. A greater comprehension of appropriate career routes and improved decision-making are fostered by the participants' 
+personalized career recommendations, which are given based on their assessment results.
+
+4. Better decision-making: utilizing the comprehensive review of data and insights provided by the dashboard, stakeholders 
+and institutions arrived at knowledgeable decisions that resulted in more focused and effective collaborations.
+
+5. As a result, there was a 50% reduction in overall duration while also increasing efficiency and reducing errors.
+
+With the help of this, stakeholders can easily interpret and  understand the data, which allows them to quickly see trends and patterns in the data, 
+so that they can make better business decisions.
