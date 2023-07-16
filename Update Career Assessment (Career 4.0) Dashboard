@@ -1,0 +1,31 @@
+The Career Assessment Dashboard is an effective tool for organizations and stakeholders looking for collaborations.
+Based on the participants' assessment responses, it offers insights into their career mindset. It addresses choices 
+for studies, interests in learning new skills, job passion, different alternatives, and more. The dashboard 
+successfully links stakeholders' contributions with personal guidance regarding careers.
+
+This dashboard delivers data regarding Career assessment status, KPIs, and other necessary data.
+This is the public link: https://analytics.zoho.com/open-view/1742677000019414139/443196e86578c3485708480379bca081
+
+Problem Statement:
+
+Developing a Career Assessment Dashboard to assess participants' career preferences and interests is the source of the issue. 
+The requirement for effective career selections as well as a lack of clarity and limited knowledge of academic options 
+and skill inclinations are among the challenges at hand.
+
+Solution:
+
+Developed an effective career assessment dashboard using the following procedures:
+
+1. Create a well-structured assessment form.
+2. Assessment data was gathered and safely saved in Zoho WorkDrive.
+3. Used Zoho Analytics to analyze data and provide visualizations.
+4. Create a user-friendly, dynamic dashboard with a user filter.
+5. Implement procedures that will update the dashboard's data automatically, to make sure the visualisations and KPIs 
+represent the most up-to-date information.
+6. Integrating the dashboard with appropriate data sources.
+
+Results: 
+
+The Career Assessment dashboard boosts collaboration opportunities, gives participants personalized guidance 
+regarding their careers, facilitates better decision-making, allocates resources effectively, and enhances 
+participant engagement. 
