@@ -1,12 +1,11 @@
 The Course Assessment Dashboard is developed for institutions and others eager to collaborate 
 with the organization. The dashboard delivers insightful information about participants' desires and suggests 
 appropriate career choices based on the outcome of their assessments by gathering and analyzing data from 
-individual evaluations. In order to collaborate efficiently and produce better results, Stakeholders and institutions 
+individual evaluations. To collaborate efficiently and produce better results, Stakeholders and institutions 
 must use this information to customize their relationships and services to the goals of everyone involved.
 
 This dashboard delivers data regarding Course assessment status, score, KPIs, and other necessary data.
 This is the public link: https://analytics.zoho.com/open-view/1742677000019398726/a81e2c9f9d6fae1bd0605b80a49b478b
-
 
 # Problem Statement:
 
@@ -22,11 +21,11 @@ centralized method to collect and analyze data from evaluations.
 which limits the potential for successful decision-making and collaboration.
 
 3. Incorrect suggestions for job preferences: Without an automated system to suggest career preferences based on assessment results, 
-Stakeholders and institutions could find it difficult to successfully match their offerings with participants' interests.
+Stakeholders and institutions could find it difficult to match their offerings with participants' interests.
 
 # Solution:
 
-1. Created the Course Assessment Dashboard to deal with the problems mentioned earlier. The following steps contribute to the final solution:
+1. Created the Course Assessment Dashboard to address the earlier problems. The following steps contribute to the final solution:
 
 2. Data collection for assessments: A user-friendly assessment interface was developed to make it simple for participants to respond. 
 Obtained participant data, such as interests, preferences, as well as relevant information.
